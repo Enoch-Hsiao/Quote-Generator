@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quote-generator/static/css/main.37b60753.chunk.css",
-    "main.js": "/quote-generator/static/js/main.31d8aea7.chunk.js",
-    "main.js.map": "/quote-generator/static/js/main.31d8aea7.chunk.js.map",
-    "runtime-main.js": "/quote-generator/static/js/runtime-main.2369a586.js",
-    "runtime-main.js.map": "/quote-generator/static/js/runtime-main.2369a586.js.map",
-    "static/js/2.8e96ee20.chunk.js": "/quote-generator/static/js/2.8e96ee20.chunk.js",
-    "static/js/2.8e96ee20.chunk.js.map": "/quote-generator/static/js/2.8e96ee20.chunk.js.map",
-    "index.html": "/quote-generator/index.html",
-    "precache-manifest.7da719bf689aa00ddf853bf79184893a.js": "/quote-generator/precache-manifest.7da719bf689aa00ddf853bf79184893a.js",
-    "service-worker.js": "/quote-generator/service-worker.js",
-    "static/css/main.37b60753.chunk.css.map": "/quote-generator/static/css/main.37b60753.chunk.css.map",
-    "static/js/2.8e96ee20.chunk.js.LICENSE": "/quote-generator/static/js/2.8e96ee20.chunk.js.LICENSE"
+    "main.css": "/Quote-Generator/static/css/main.37b60753.chunk.css",
+    "main.js": "/Quote-Generator/static/js/main.4fe305b8.chunk.js",
+    "main.js.map": "/Quote-Generator/static/js/main.4fe305b8.chunk.js.map",
+    "runtime-main.js": "/Quote-Generator/static/js/runtime-main.e2f8a9cf.js",
+    "runtime-main.js.map": "/Quote-Generator/static/js/runtime-main.e2f8a9cf.js.map",
+    "static/js/2.8e96ee20.chunk.js": "/Quote-Generator/static/js/2.8e96ee20.chunk.js",
+    "static/js/2.8e96ee20.chunk.js.map": "/Quote-Generator/static/js/2.8e96ee20.chunk.js.map",
+    "index.html": "/Quote-Generator/index.html",
+    "precache-manifest.eb015f70e75e21011d95ecac45b1f9d3.js": "/Quote-Generator/precache-manifest.eb015f70e75e21011d95ecac45b1f9d3.js",
+    "service-worker.js": "/Quote-Generator/service-worker.js",
+    "static/css/main.37b60753.chunk.css.map": "/Quote-Generator/static/css/main.37b60753.chunk.css.map",
+    "static/js/2.8e96ee20.chunk.js.LICENSE": "/Quote-Generator/static/js/2.8e96ee20.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2369a586.js",
+    "static/js/runtime-main.e2f8a9cf.js",
     "static/js/2.8e96ee20.chunk.js",
     "static/css/main.37b60753.chunk.css",
-    "static/js/main.31d8aea7.chunk.js"
+    "static/js/main.4fe305b8.chunk.js"
   ]
 }
