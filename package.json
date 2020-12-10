@@ -1,6 +1,6 @@
 {
   "homepage": "http://enoch-hsiao.github.io/quote-generator",
-  "name": "Quote-Generator",
+  "name": "quote-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
